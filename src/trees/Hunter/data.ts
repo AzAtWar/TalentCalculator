@@ -7,46 +7,32 @@ const backgrounds = requireAll(
 const icons = requireAll(require.context("../../assets/icons/hunter"));
 
 export const data: TalentData = {
-  "Beast Mastery": {
-    name: "Beast Mastery",
-    background: backgrounds["beast-mastery"],
-    icon: icons["ability_hunter_beasttaming"],
-    talents: {
-      "Improved Aspect of the Monkey": {
-        name: "Improved Aspect of the Monkey", 
-        pos: "a1", 
-        icon: icons["ability_hunter_aspectofthemonkey"], 
-        maxRank: 3, 
-        reqPoints: 0,
-        description: talentText`Increases the dodge and melee crit bonuses of Aspect of the Monkey by ${[
-          1,
-          2,
-          3,
-        ]}%.`, 
-      },
       "Improved Aspect of the Hawk": {
         name: "Improved Aspect of the Hawk", 
         pos: "a2", 
         icon: icons["spell_nature_ravenform"], 
         maxRank: 5, 
         reqPoints: 0,
-        description: talentText`While Aspect of the Hawk is active, gives you a ${[
-          10,
-          20,
-          30,
-          40,
-          50,
-        ]}% chance of increasing ranged attack speed by 30% for 8 seconds after dealing a critical strike with a ranged attack.`, 
+        description: talentText`While Aspect of the Hawk is active, all normal ranged attacks have a 10% chance of increasing ranged attack speed by ${[
+          3,
+          6,
+          9,
+          12,
+          15,
+        ]}% for 12 sec.`, 
       },
       "Endurance Training": {
         name: "Endurance Training", 
         pos: "a3", 
         icon: icons["spell_nature_reincarnation"], 
-        maxRank: 2, 
+        maxRank: 5, 
         reqPoints: 0,
         description: talentText`Increases the Health of your pets by ${[
+          5,
           10,
+          15,
           20,
+          25,
         ]}%.`, 
       },
       "Thick Hide": {
