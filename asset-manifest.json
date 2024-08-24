@@ -1,9 +1,9 @@
 {
   "files": {
     "main.css": "/TalentCalculator/static/css/main.0ae4d62a.css",
-    "main.js": "/TalentCalculator/static/js/main.f995ca1b.js",
+    "main.js": "/TalentCalculator/static/js/main.6e504728.js",
     "static/css/859.53802404.chunk.css": "/TalentCalculator/static/css/859.53802404.chunk.css",
-    "static/js/859.ba1ed917.chunk.js": "/TalentCalculator/static/js/859.ba1ed917.chunk.js",
+    "static/js/859.a690623b.chunk.js": "/TalentCalculator/static/js/859.a690623b.chunk.js",
     "static/css/79.53802404.chunk.css": "/TalentCalculator/static/css/79.53802404.chunk.css",
     "static/js/79.51678053.chunk.js": "/TalentCalculator/static/js/79.51678053.chunk.js",
     "static/css/214.53802404.chunk.css": "/TalentCalculator/static/css/214.53802404.chunk.css",
@@ -47,12 +47,11 @@
     "static/media/frost.jpg": "/TalentCalculator/static/media/frost.ccdc1962f8cb23885674.jpg",
     "static/media/left--gold.png": "/TalentCalculator/static/media/left--gold.e8de448ad4f6fdbfe576.png",
     "static/media/left.png": "/TalentCalculator/static/media/left.21a2c10e85d7e6b53dbb.png",
-    "static/media/Mage Fire.rar": "/TalentCalculator/static/media/Mage Fire.09eb9b77e30341c47b77.rar",
     "index.html": "/TalentCalculator/index.html",
     "main.0ae4d62a.css.map": "/TalentCalculator/static/css/main.0ae4d62a.css.map",
-    "main.f995ca1b.js.map": "/TalentCalculator/static/js/main.f995ca1b.js.map",
+    "main.6e504728.js.map": "/TalentCalculator/static/js/main.6e504728.js.map",
     "859.53802404.chunk.css.map": "/TalentCalculator/static/css/859.53802404.chunk.css.map",
-    "859.ba1ed917.chunk.js.map": "/TalentCalculator/static/js/859.ba1ed917.chunk.js.map",
+    "859.a690623b.chunk.js.map": "/TalentCalculator/static/js/859.a690623b.chunk.js.map",
     "79.53802404.chunk.css.map": "/TalentCalculator/static/css/79.53802404.chunk.css.map",
     "79.51678053.chunk.js.map": "/TalentCalculator/static/js/79.51678053.chunk.js.map",
     "214.53802404.chunk.css.map": "/TalentCalculator/static/css/214.53802404.chunk.css.map",
@@ -73,6 +72,6 @@
   },
   "entrypoints": [
     "static/css/main.0ae4d62a.css",
-    "static/js/main.f995ca1b.js"
+    "static/js/main.6e504728.js"
   ]
 }
