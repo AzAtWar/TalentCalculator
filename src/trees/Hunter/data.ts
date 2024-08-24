@@ -7,6 +7,11 @@ const backgrounds = requireAll(
 const icons = requireAll(require.context("../../assets/icons/hunter"));
 
 export const data: TalentData = {
+  "Beast Mastery": {
+    name: "Beast Mastery",
+    background: backgrounds["beast-mastery"],
+    icon: icons["ability_hunter_beasttaming"],
+    talents: {
       "Improved Aspect of the Hawk": {
         name: "Improved Aspect of the Hawk", 
         pos: "a2", 
