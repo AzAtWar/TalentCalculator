@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/TalentCalculator/static/css/main.0ae4d62a.css",
-    "main.js": "/TalentCalculator/static/js/main.0a16b9c6.js",
+    "main.js": "/TalentCalculator/static/js/main.cffd852c.js",
     "static/css/859.53802404.chunk.css": "/TalentCalculator/static/css/859.53802404.chunk.css",
     "static/js/859.f54e7d03.chunk.js": "/TalentCalculator/static/js/859.f54e7d03.chunk.js",
     "static/css/79.53802404.chunk.css": "/TalentCalculator/static/css/79.53802404.chunk.css",
@@ -17,7 +17,7 @@
     "static/css/577.53802404.chunk.css": "/TalentCalculator/static/css/577.53802404.chunk.css",
     "static/js/577.3da3818a.chunk.js": "/TalentCalculator/static/js/577.3da3818a.chunk.js",
     "static/css/281.53802404.chunk.css": "/TalentCalculator/static/css/281.53802404.chunk.css",
-    "static/js/281.67a7101f.chunk.js": "/TalentCalculator/static/js/281.67a7101f.chunk.js",
+    "static/js/281.1c544467.chunk.js": "/TalentCalculator/static/js/281.1c544467.chunk.js",
     "static/css/926.53802404.chunk.css": "/TalentCalculator/static/css/926.53802404.chunk.css",
     "static/js/926.31e0ce67.chunk.js": "/TalentCalculator/static/js/926.31e0ce67.chunk.js",
     "static/js/678.0256a923.chunk.js": "/TalentCalculator/static/js/678.0256a923.chunk.js",
@@ -49,7 +49,7 @@
     "static/media/left.png": "/TalentCalculator/static/media/left.21a2c10e85d7e6b53dbb.png",
     "index.html": "/TalentCalculator/index.html",
     "main.0ae4d62a.css.map": "/TalentCalculator/static/css/main.0ae4d62a.css.map",
-    "main.0a16b9c6.js.map": "/TalentCalculator/static/js/main.0a16b9c6.js.map",
+    "main.cffd852c.js.map": "/TalentCalculator/static/js/main.cffd852c.js.map",
     "859.53802404.chunk.css.map": "/TalentCalculator/static/css/859.53802404.chunk.css.map",
     "859.f54e7d03.chunk.js.map": "/TalentCalculator/static/js/859.f54e7d03.chunk.js.map",
     "79.53802404.chunk.css.map": "/TalentCalculator/static/css/79.53802404.chunk.css.map",
@@ -65,13 +65,13 @@
     "577.53802404.chunk.css.map": "/TalentCalculator/static/css/577.53802404.chunk.css.map",
     "577.3da3818a.chunk.js.map": "/TalentCalculator/static/js/577.3da3818a.chunk.js.map",
     "281.53802404.chunk.css.map": "/TalentCalculator/static/css/281.53802404.chunk.css.map",
-    "281.67a7101f.chunk.js.map": "/TalentCalculator/static/js/281.67a7101f.chunk.js.map",
+    "281.1c544467.chunk.js.map": "/TalentCalculator/static/js/281.1c544467.chunk.js.map",
     "926.53802404.chunk.css.map": "/TalentCalculator/static/css/926.53802404.chunk.css.map",
     "926.31e0ce67.chunk.js.map": "/TalentCalculator/static/js/926.31e0ce67.chunk.js.map",
     "678.0256a923.chunk.js.map": "/TalentCalculator/static/js/678.0256a923.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0ae4d62a.css",
-    "static/js/main.0a16b9c6.js"
+    "static/js/main.cffd852c.js"
   ]
 }
